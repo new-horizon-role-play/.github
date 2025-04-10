@@ -49,7 +49,7 @@ Ensure you have the following installed before running the server:
 
 ## 🔥 Important Resources
 
-### 📂 **Folder Structure**
+### 📂 **Folder Structure** *(Not Accurate as of 4-9-2025)*
 
 📦 New Horizon Roleplay-DevServer ┣ 📂 resources ┃ ┣ 📂 [qb-core]  # Core framework ┃ ┣ 📂 [custom]   # Custom scripts & modifications ┃ ┣ 📂 [maps]     # Server-specific map modifications ┃ ┣ 📂 [jobs]     # Custom jobs & businesses ┃ ┣ 📂 [vehicles] # Custom & VIP vehicles ┃ ┗ 📂 [addons]   # Miscellaneous resources ┣ 📂 logs         # Server logs & error tracking ┣ 📜 server.cfg   # Server configuration file ┣ 📜 run.sh       # Server start script (Linux) ┣ 📜 run.cmd      # Server start script (Windows) ┗ 📜 README.md    # This file
 
@@ -81,7 +81,7 @@ Ensure you have the following installed before running the server:
 ---
 
 ## 🎯 Contact & Support
-- **Discord:** [New Horizon Roleplay Community](https://discord.gg/YourServerLink)
+- **Discord:** [New Horizon Roleplay Community](https://discord.gg/NewHorizon-RP)
 - **Documentation:** Available in the `docs/` folder.
 - **Bug Reports:** Submit via GitHub Issues.
 
